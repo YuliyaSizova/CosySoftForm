@@ -1,0 +1,12 @@
+
+/node_modules
+/dist
+
+# testing
+/coverage
+
+# production
+/build
+
+/yarn.lock
+/yarn-error.log
